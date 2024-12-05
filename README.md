@@ -20,6 +20,7 @@ This project implements a UIUC-themed Tetris game with the following features:
 - D: Move right  
 - S: Accelerate fall  
 - Space: Start a new game/restart after losing  
+
 Generally, our system uses an SoC with a MicroBlaze processor for taking keyboard inputs through our FPGA board and controlling the movements of Tetrominos. The game is displayed on a monitor connected through HDMI.
 
 ### Toplevel overview
