@@ -1,4 +1,4 @@
-# UIUC-Themed Tetris on Fpga
+# UIUC-Themed Tetris on FPGA
 
 Developed by Alex Baratian and Ieva Bagdonaviciute as part of a final project for the ECE385 course at UIUC.
 
