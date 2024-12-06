@@ -25,3 +25,6 @@ Generally, our system uses an SoC with a MicroBlaze processor for taking keyboar
 
 ### Toplevel overview
 <img src="https://github.com/user-attachments/assets/c9b4d4c3-39ca-45b5-b3d4-ce7d2852d866" alt="Toplevel Overview" width="600"/>
+
+### References
+Files vga_controller.sv and hew_driver.sv were provided to us by the ECE385 course staff.
